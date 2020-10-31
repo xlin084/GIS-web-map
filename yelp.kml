@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="yelp" id="yelp">
+	<SimpleField name="rating" type="float"></SimpleField>
+	<SimpleField name="url" type="string"></SimpleField>
+	<SimpleField name="price" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="long" type="float"></SimpleField>
+	<SimpleField name="category" type="string"></SimpleField>
+</Schema>
+<Folder><name>yelp</name>
+  <Placemark>
+	<name>Mondays Wholefoods</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/mondays-wholefoods-kingsland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$$</SimpleData>
+		<SimpleData name="lat">-36.872086</SimpleData>
+		<SimpleData name="long">174.74364</SimpleData>
+		<SimpleData name="category">Cafes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.74364,-36.872086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crave Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/crave-cafe-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8753699</SimpleData>
+		<SimpleData name="long">174.7362599</SimpleData>
+		<SimpleData name="category">Cafes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7362599,-36.8753699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Fridge</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/the-fridge-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.872261</SimpleData>
+		<SimpleData name="long">174.7434082</SimpleData>
+		<SimpleData name="category">Coffee &amp; Tea</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7434082,-36.872261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jaan Turkish Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">3.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/jaan-turkish-cafe-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.8722416</SimpleData>
+		<SimpleData name="long">174.7435993</SimpleData>
+		<SimpleData name="category">Turkish</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7435993,-36.8722416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Neighbourhood Brewbar</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">3.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/neighbourhood-brewbar-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8726196</SimpleData>
+		<SimpleData name="long">174.7433167</SimpleData>
+		<SimpleData name="category">Hookah Bars</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7433167,-36.8726196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Petra Shawarma</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">3.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/petra-shawarma-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8724789940839</SimpleData>
+		<SimpleData name="long">174.743784964085</SimpleData>
+		<SimpleData name="category">Middle Eastern</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.743784964085,-36.8724789940839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Papa's Italian Eatery</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/papas-italian-eatery-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8747482</SimpleData>
+		<SimpleData name="long">174.7416077</SimpleData>
+		<SimpleData name="category">Italian</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7416077,-36.8747482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grey Lynn Festival</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/grey-lynn-festival-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.86657</SimpleData>
+		<SimpleData name="long">174.7420031</SimpleData>
+		<SimpleData name="category">Festivals</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7420031,-36.86657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nectar Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/nectar-bar-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.8722633</SimpleData>
+		<SimpleData name="long">174.7444232</SimpleData>
+		<SimpleData name="category">Lounges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7444232,-36.8722633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barcelona Bar Tapas &amp; Wines</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/barcelona-bar-tapas-and-wines-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.8726115</SimpleData>
+		<SimpleData name="long">174.7432796</SimpleData>
+		<SimpleData name="category">Tapas/Small Plates</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7432796,-36.8726115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mekong Neua Thai Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">3.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/mekong-neua-thai-restaurant-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$$</SimpleData>
+		<SimpleData name="lat">-36.8721428</SimpleData>
+		<SimpleData name="long">174.7438812</SimpleData>
+		<SimpleData name="category">Thai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7438812,-36.8721428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Okra Espresso Lounge</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">3.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/okra-espresso-lounge-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8776283</SimpleData>
+		<SimpleData name="long">174.7406769</SimpleData>
+		<SimpleData name="category">Coffee &amp; Tea</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7406769,-36.8776283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flight 605</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/flight-605-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8736305</SimpleData>
+		<SimpleData name="long">174.7367859</SimpleData>
+		<SimpleData name="category">Wine Bars</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7367859,-36.8736305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Kingslander</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">3</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/the-kingslander-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8724251</SimpleData>
+		<SimpleData name="long">174.7438965</SimpleData>
+		<SimpleData name="category">Bars</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7438965,-36.8724251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Venosa</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/venosa-kingsland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8724599</SimpleData>
+		<SimpleData name="long">174.74379</SimpleData>
+		<SimpleData name="category">Italian</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.74379,-36.8724599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tiffin Indian Cuisine</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/tiffin-indian-cuisine-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8738715</SimpleData>
+		<SimpleData name="long">174.7368143</SimpleData>
+		<SimpleData name="category">Indian</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7368143,-36.8738715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farang</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/farang-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.87218</SimpleData>
+		<SimpleData name="long">174.74368</SimpleData>
+		<SimpleData name="category">Thai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.74368,-36.87218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Toro Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/toro-bar-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.8724527</SimpleData>
+		<SimpleData name="long">174.7437957</SimpleData>
+		<SimpleData name="category">Bars</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7437957,-36.8724527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roasted Addiqtion</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">2.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/roasted-addiqtion-auckland-2?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8721962</SimpleData>
+		<SimpleData name="long">174.7436981</SimpleData>
+		<SimpleData name="category">Coffee &amp; Tea</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7436981,-36.8721962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peel To Pip</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/peel-to-pip-morningside?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.873720241951</SimpleData>
+		<SimpleData name="long">174.736096406067</SimpleData>
+		<SimpleData name="category">Cafes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.736096406067,-36.873720241951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Mustard Kitchen</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/the-mustard-kitchen-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$</SimpleData>
+		<SimpleData name="lat">-36.8761331</SimpleData>
+		<SimpleData name="long">174.7356346</SimpleData>
+		<SimpleData name="category">Cafes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7356346,-36.8761331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Little India Bistro &amp; Tandoor</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">3.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/little-india-bistro-and-tandoor-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8721504</SimpleData>
+		<SimpleData name="long">174.7437897</SimpleData>
+		<SimpleData name="category">Indian</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7437897,-36.8721504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kauri Gum Country Store &amp; Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">3</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/kauri-gum-country-store-and-cafe-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.7544899</SimpleData>
+		<SimpleData name="long">174.592</SimpleData>
+		<SimpleData name="category">Coffee &amp; Tea</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.592,-36.7544899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sake Bar Icco</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/sake-bar-icco-morningside?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.872504</SimpleData>
+		<SimpleData name="long">174.736742</SimpleData>
+		<SimpleData name="category">Sushi Bars</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.736742,-36.872504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mangal Indian Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/mangal-indian-restaurant-kingsland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.87486</SimpleData>
+		<SimpleData name="long">174.74158</SimpleData>
+		<SimpleData name="category">Indian</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.74158,-36.87486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kiwiana Fish &amp; Chips</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">2.5</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/kiwiana-fish-and-chips-auckland-3?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.8722515</SimpleData>
+		<SimpleData name="long">174.7437368</SimpleData>
+		<SimpleData name="category">Fish &amp; Chips</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7437368,-36.8722515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Bottega Bakery Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/la-bottega-bakery-cafe-kingsland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$$</SimpleData>
+		<SimpleData name="lat">-36.8721629</SimpleData>
+		<SimpleData name="long">174.7436998</SimpleData>
+		<SimpleData name="category">Bakeries</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7436998,-36.8721629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rugby Buildings</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">4</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/rugby-buildings-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.8748589</SimpleData>
+		<SimpleData name="long">174.7415771</SimpleData>
+		<SimpleData name="category">Breakfast &amp; Brunch</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7415771,-36.8748589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grey Lynn Tavern</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">3</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/grey-lynn-tavern-auckland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">$</SimpleData>
+		<SimpleData name="lat">-36.8725047</SimpleData>
+		<SimpleData name="long">174.7425204</SimpleData>
+		<SimpleData name="category">Sports Bars</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7425204,-36.8725047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arthur Avenue</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">1</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/arthur-avenue-kingsland?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.8723183</SimpleData>
+		<SimpleData name="long">174.7442322</SimpleData>
+		<SimpleData name="category">Tapas/Small Plates</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7442322,-36.8723183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al's Deli</name>
+	<ExtendedData><SchemaData schemaUrl="#yelp">
+		<SimpleData name="rating">1</SimpleData>
+		<SimpleData name="url">https://www.yelp.com/biz/als-deli-auckland-4?adjust_creative=wwF0xmAmk6ZmxYuaGEHDag&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=wwF0xmAmk6ZmxYuaGEHDag</SimpleData>
+		<SimpleData name="price">null</SimpleData>
+		<SimpleData name="lat">-36.8722959</SimpleData>
+		<SimpleData name="long">174.7433408</SimpleData>
+		<SimpleData name="category">Cafes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.7433408,-36.8722959</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
