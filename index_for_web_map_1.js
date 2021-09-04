@@ -1,4 +1,3 @@
-
 let mymap = L.map('mapid').setView([-36.848, 174.76], 12);
 
 L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
