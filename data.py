@@ -37,5 +37,6 @@ for business in payload['businesses']:
 #modify .csv file and close
 with open('yelp.csv','w') as csv_file:  
     writer = csv.writer(csv_file)  
-    writer.writerows(payload_good)  
+    writer.writerows(payload_good)
+    
 csv_file.close()  
